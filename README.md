@@ -1,5 +1,5 @@
 # Nota-Mínima-para-Prioridade-em-Curso
-#Programa, em Python, que estabelece um nota mínima para que um estudante possa ter prioridade em curso de capacitação.
+#Programa, em Python, que estabelece uma nota mínima para que um estudante possa ter prioridade em curso de capacitação.
 
 nomeDoEstudante = input('Digite o nome: ')
 nota = float(input('Digite a nota: '))
